@@ -7,17 +7,17 @@ I'm passionate about coding, open source, and building awesome projects that mak
 
 ## 🚀 About Me
 
-- 🎓 **Student in Software Engineering**
+- 🎓 **Third-year Software Engineering student in Togo, building full-stack web apps.**
 - 🌱 Always learning, building, and collaborating on exciting tech projects.
 
 ---
 
 ## 🛠 Tech Stack
 
-- 🎨 Tailwind CSS
-- ⚡ JavaScript
-- 🧑‍💻 C
-- 🌐 PHP
+- Tailwind CSS
+- JavaScript
+-  C
+- Java
 
 ---
 
@@ -30,11 +30,6 @@ I'm passionate about coding, open source, and building awesome projects that mak
 
 ---
 
-## 📈 GitHub Stats
-
-![JOHN-gif1224's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOHN-gif1224&show_icons=true&theme=radical)
-
----
 
 ## 📫 Connect with Me
 
