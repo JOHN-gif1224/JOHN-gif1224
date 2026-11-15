@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm JOHN-gif1224!
+# Hi there, I'm John!
 
 Welcome to my GitHub profile!  
 I'm passionate about coding, open source, and building awesome projects that make a difference. Below, you'll find just a glimpse of what I do, my interests, and some quick ways to connect!
@@ -8,7 +8,6 @@ I'm passionate about coding, open source, and building awesome projects that mak
 ## 🚀 About Me
 
 - 🎓 **Student in Software Engineering**
-- 💡 _I’m an aspiring coder on a journey to master the art of programming._
 - 🌱 Always learning, building, and collaborating on exciting tech projects.
 
 ---
