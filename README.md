@@ -25,7 +25,7 @@ I'm passionate about coding, open source, and building awesome projects that mak
 
 | Project                                                                                                      | Description                                    | Tech Stack         |
 |--------------------------------------------------------------------------------------------------------------|------------------------------------------------|--------------------|
-| [BINARY_SEC_REGISTRATION_FORM](https://github.com/JOHN-gif1224/BINARY_SEC_REGISTRATION_FORM)                 | Secure and efficient registration system       | C, PHP, Web        |
+| [BINARY_SEC_REGISTRATION_FORM](https://github.com/JOHN-gif1224/BINARY_SEC_REGISTRATION_FORM)                 | Secure and efficient registration system       | PHP, Web        |
 | [Weather-App](https://github.com/JOHN-gif1224/Weather-App)                                                   | Displays weather updates with dynamic visuals  | JavaScript, HTML   |
 
 ---
